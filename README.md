@@ -1,0 +1,3 @@
+- 👋 Hi, I’m Piotr Garncarz
+- 👀 I’m interested in back-end programming
+- 🌱 I’m currently learning php and cyber security
