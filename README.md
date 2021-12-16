@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Piotr Garncarz
 - 👀 I’m interested in back-end programming
-- 🌱 I’m currently learning php and cyber security
+- 🌱 I’m currently learning c++
 - 👯 I’m looking to collaborate on Open Source Projects(mostly web services)
-- 💬 Talk to me about Python, PHP, Open Source 
+- 💬 Talk to me about Python, c++, GNU/Linux, Open Source 
 - 📫You can reach me at pgarncarz@pm.me
